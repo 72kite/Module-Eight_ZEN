@@ -1,0 +1,10 @@
+[INFO] Application started.
+[ERROR] Invalid input: 145698 for prompt: Enter initial hour (0-23): 
+[ERROR] Invalid input: 24 for prompt: Enter initial hour (0-23): 
+[INFO] Program exited by user.
+[INFO] Application started.
+[INFO] Program exited by user.
+[INFO] Application started.
+[ERROR] Invalid input: 26 for prompt: Enter initial hour (0-23): 
+[INFO] Time reset to 5:2:2
+[INFO] Program exited by user.

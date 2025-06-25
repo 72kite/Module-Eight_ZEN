@@ -1,0 +1,2 @@
+C:\Users\zionk\source\repos\ChadaProjectM3_Zen\x64\Debug\ChadaProjectM3_Zen.exe.lastcodeanalysissucceeded
+C:\Users\zionk\source\repos\ChadaProjectM3_Zen\ChadaPro.ddd5fbb1\x64\Debug\NativeCodeAnalysis.read.1.tlog
