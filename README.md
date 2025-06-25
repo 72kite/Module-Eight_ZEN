@@ -2,11 +2,11 @@
 
 ## 📘 Project Summary: What problem did this solve?
 
-This project involved developing an object-oriented C++ application for Chada Tech that displays the current time in both 12-hour (AM/PM) and 24-hour (military) formats. The main objective was to comply with ISO 8601 standards and provide users—both domestic and international—with a flexible and user-preferred time display. In addition to real-time dual clock functionality, the program features a menu interface that allows users to increment hours, minutes, or seconds. The application demonstrates strong time logic, basic input validation, and clean separation of logic and display code.
+This project involved developing an object-oriented C++ application for Chada Tech that displays the current time in both 12-hour (AM/PM) and 24-hour (military) formats. The main objective was to comply with ISO 8601 standards and provide users both domestic and international with a flexible and user-preferred time display. In addition to real-time dual clock functionality, the program features a menu interface that allows users to increment hours, minutes, or seconds. The application demonstrates strong time logic, basic input validation, and clean separation of logic and display code.
 
 ## ✅ What did I do particularly well?
 
-One of the standout aspects of this project was the application of object-oriented programming (OOP) principles. By encapsulating all time-related logic in a single `Clock` class, the code remained clean, modular, and easy to manage. I also implemented a simultaneous, real-time display of both clock formats, which was a core requirement. The user menu is intuitive, well-formatted, and responsive, and the input validation—though basic—ensures that common user errors are handled gracefully. Overall, the structure of the program emphasizes clarity and maintainability.
+One of the standout aspects of this project was the application of object-oriented programming (OOP) principles. By encapsulating all time-related logic in a single `Clock` class, the code remained clean, modular, and easy to manage. I also implemented a simultaneous, real-time display of both clock formats, which was a core requirement. The user menu is intuitive, well-formatted, and responsive, and the input validation though basic ensures that common user errors are handled gracefully. Overall, the structure of the program emphasizes clarity and maintainability.
 
 ## 🚀 Where could I enhance my code?
 
